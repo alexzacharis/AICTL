@@ -1,2 +1,2 @@
-# AICTL
-OpOtimising AI Model usage for Intelligence Extraction in the Cybersecurity Threat Landscape generation life-cycle
+# Optimising AI Model usage for Intelligence Extraction in the Cybersecurity Threat Landscape generation life-cycle
+
